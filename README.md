@@ -45,7 +45,7 @@ Source Systems (Delta Tables + Volume CSVs)
 ```
 neobank-data-engineering-databricks/
 │
-├── 01_Setup/
+├── 01_Setup_Metadata/
 │   ├── 01_Setup_Metadata.ipynb
 │   ├── 02_Check_Metadata.ipynb
 │   └── active_table_counts.ipynb
